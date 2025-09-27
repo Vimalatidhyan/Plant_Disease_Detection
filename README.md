@@ -41,5 +41,9 @@ The dataset contains images of 10 crops with 36 different classes (healthy + mul
 ## To Run
 Streamlit run app1.py
 
+DOWNLOAD THE TRAINED MODEL FROM:
+https://drive.google.com/file/d/1IkPl32Zf7mrW8LHxIFU4t2y_80Viq66B/view?usp=sharing
+
+
    
 
